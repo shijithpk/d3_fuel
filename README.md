@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+#South Asian Fuel Price Visualisation
 
-You can use the [editor on GitHub](https://github.com/shijithpk/d3_fuel/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository has the pages, data and sources for a visualisation of fuel prices created for [WION](http://www.wionews.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The prices for Indian diesel and petrol, as well as the Indian Basket crude oil benchmark are taken from the Indian government body [Petroleum Planning & Analysis Cell](http://ppac.org.in/content/149_1_PricesPetroleum.aspx).
 
-### Markdown
+The world crude oil consumption and production figures used in the second visualisation are from the US [Energy Information Administration].(http://www.eia.gov/outlooks/steo/report/global_oil.cfm
+).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The petrol and diesel prices for Pakistan are from the [Pakistan State Oil Company](http://www.psopk.com/en/product-and-services/product-prices/pol/pol-archives
+).
 
-```markdown
-Syntax highlighted code block
+The petrol and diesel prices for Nepal are from the [Nepal Oil Corporation](http://www.nepaloil.com.np/selling-price-archive-16.html
+).
 
-# Header 1
-## Header 2
-### Header 3
+The prices for Sri Lanka are from the [Ceylon Petroleum Corporation](http://www.ceypetco.gov.lk/History.htm).
 
-- Bulleted
-- List
+The break-up of diesel prices in Pakistan and India are from a Pakistan State Oil [notification](http://www.psopk.com/files/hsd/hsd_notifications_1117.pdf
+) and the website of India's [Hindustan Petroleum](http://www.hindustanpetroleum.com/documents/pdf/pb/pricebuildup_Diesel.pdf
+).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shijithpk/d3_fuel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Some other odds and ends:
+Exchange rates used for 1 US dollar is 104.78 Pakistani rupees, 68.13 Indian rupees, 150.49 Sri Lankan rupees and 109.17 Nepalese rupees.
+The revised prices in India for diesel and petrol in January 2017 have been used for December 2016 for a more up-to-date comparison with other South Asian countries.
