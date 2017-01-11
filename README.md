@@ -1,4 +1,4 @@
-#South Asian Fuel Price Visualisation
+###South Asian Fuel Price Visualisation
 
 This repository has the pages, data and sources for a visualisation of fuel prices created for [WION](http://www.wionews.com).
 
@@ -20,5 +20,7 @@ The break-up of diesel prices in Pakistan and India are from a Pakistan State Oi
 ).
 
 Some other odds and ends:
-Exchange rates used for 1 US dollar is 104.78 Pakistani rupees, 68.13 Indian rupees, 150.49 Sri Lankan rupees and 109.17 Nepalese rupees.
-The revised prices in India for diesel and petrol in January 2017 have been used for December 2016 for a more up-to-date comparison with other South Asian countries.
+
+1) Exchange rates used for 1 US dollar is 104.78 Pakistani rupees, 68.13 Indian rupees, 150.49 Sri Lankan rupees and 109.17 Nepalese rupees.
+
+2) The revised prices in India for diesel and petrol in January 2017 have been used for December 2016 for a more up-to-date comparison with other South Asian countries.
