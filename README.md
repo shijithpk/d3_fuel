@@ -24,3 +24,5 @@ Some other odds and ends:
 1) Exchange rates used for 1 US dollar is 104.78 Pakistani rupees, 68.13 Indian rupees, 150.49 Sri Lankan rupees and 109.17 Nepalese rupees.
 
 2) The revised prices in India for diesel and petrol in January 2017 have been used for December 2016 for a more up-to-date comparison with other South Asian countries.
+
+3) The quarters used in the world oil production and consumption chart are done according to the US system, so the quarter Q1 is Jan-Mar and not Apr-Jun as used in South Asia.
