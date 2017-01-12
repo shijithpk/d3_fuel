@@ -4,7 +4,7 @@ This repository has the pages, data and sources for a [visualisation of fuel pri
 
 The prices for Indian diesel and petrol, as well as the Indian Basket crude oil benchmark are taken from the Indian government body [Petroleum Planning & Analysis Cell](http://ppac.org.in/content/149_1_PricesPetroleum.aspx).
 
-The world crude oil consumption and production figures used in the second visualisation are from the US [Energy Information Administration].(http://www.eia.gov/outlooks/steo/report/global_oil.cfm
+The world crude oil consumption and production figures used in the second visualisation are from the US [Energy Information Administration](http://www.eia.gov/outlooks/steo/report/global_oil.cfm
 ).
 
 The petrol and diesel prices for Pakistan are from the [Pakistan State Oil Company](http://www.psopk.com/en/product-and-services/product-prices/pol/pol-archives
@@ -25,4 +25,4 @@ Some other odds and ends:
 
 2) The revised prices in India for diesel and petrol in January 2017 have been used for December 2016 for a more up-to-date comparison with other South Asian countries.
 
-3) The quarters used in the world oil production and consumption chart are done according to the US system, so the quarter Q1 is Jan-Mar and not Apr-Jun as it would be interpreted in South Asia.
+3) The quarters used in the world oil production and consumption chart are done according to the US system, so the quarter Q1 2014 is Jan-Mar 2014 and not Apr-Jun 2013 as it would be interpreted in South Asia.
