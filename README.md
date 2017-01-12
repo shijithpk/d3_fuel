@@ -1,6 +1,6 @@
 ###South Asian Fuel Price Visualisation
 
-This repository has the pages, data and sources for a visualisation of fuel prices created for [WION](http://www.wionews.com).
+This repository has the pages, data and sources for a [visualisation of fuel prices](http://www.wionews.com/business-economy/why-are-indian-prices-not-falling-in-line-with-global-crude-oil-prices-11150) created for the Indian news channel WION.
 
 The prices for Indian diesel and petrol, as well as the Indian Basket crude oil benchmark are taken from the Indian government body [Petroleum Planning & Analysis Cell](http://ppac.org.in/content/149_1_PricesPetroleum.aspx).
 
